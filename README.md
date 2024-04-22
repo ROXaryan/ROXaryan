@@ -1,5 +1,5 @@
 
-```json
+```python
 profile = MyGitHubProfile(
     name="Aryan",
     username="ROXaryan",
