@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.gifer.com/84zn.gif"/>
-</p>
+
+  <img src="https://i.gifer.com/SCbe.gif"/>
+
 
 ```javascript
 fetch('profile.json')
