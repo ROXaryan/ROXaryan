@@ -20,7 +20,7 @@ fetch('profile.json')
 
 ```
 ###
-<p align="left">
+<p align="Center">
   <picture>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   </picture>
