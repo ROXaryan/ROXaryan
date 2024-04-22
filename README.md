@@ -1,4 +1,4 @@
-<p align="center">A Young Dev on Journey to make better Future </p>
+<h1 align="center">A Young Dev on Journey to make better Future </h1>
 
 <p align="center">
   <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
