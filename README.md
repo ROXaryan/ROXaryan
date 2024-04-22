@@ -3,8 +3,9 @@
 </p>
  
 
-
-```javascript
+<div align="right">
+  
+  ```javascript
 fetch('profile.json')
   .then(response => response.json())
   .then(profile => {
@@ -19,6 +20,9 @@ fetch('profile.json')
 
 
 ```
+
+</div>
+
 ###
 <p align="Center">
   <picture>
