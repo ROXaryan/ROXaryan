@@ -1,4 +1,4 @@
-
+![Profile Image](https://i.gifer.com/84zn.gif)
 ```javascript
 fetch('profile.json')
   .then(response => response.json())
