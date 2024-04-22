@@ -3,7 +3,6 @@
 fetch('profile.json')
   .then(response => response.json())
   .then(profile => {
-    // Access profile information
     console.log("Name:", Aryan);
     console.log("Age:", 18);
     console.log("Hobby:", Anime, coding and Gaming);
