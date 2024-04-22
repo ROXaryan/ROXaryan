@@ -2,7 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=EREN!%20&height=100&section=header"/>
 </p>
 
-![violet_github_banner-modified](https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true)
+
+<p align="center">
+  <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
+</p>
 
 <div align="left">
   
