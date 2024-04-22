@@ -4,7 +4,7 @@
   <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
 </p>
 
-<h3>
+<h3 align="center">
   Im Aryan Gupta from India 🇮🇳
 </h3>
 
