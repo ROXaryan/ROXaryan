@@ -3,7 +3,7 @@
 </p>
  
 
-<div align="right">
+<div align="left">
   
   ```javascript
 fetch('profile.json')
