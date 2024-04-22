@@ -1,18 +1,17 @@
 
-```python
-profile = MyGitHubProfile(
-    name="Aryan",
-    username="ROXaryan",
-    location="India, Uttar pradesh",
-    bio="I watch anime and i love playing Games ",
-    hobby="Game, Coding & Anime" ,
-    passion="tech, Nature, idk much about now " 
-)
+```javascript
+fetch('profile.json')
+  .then(response => response.json())
+  .then(profile => {
+    // Access profile information
+    console.log("Name:", Aryan);
+    console.log("Age:", 18);
+    console.log("Hobby:", Anime, coding and Gaming);
+    console.log("Things I Like:", ATTACT ON TITAN);
+    profile.thingsILike.forEach(thing => console.log("-", thing));
+  })
+  .catch(error => console.error('Error fetching profile:', error));
 
-2024 Goals: "Create 50+ Projects and learn at least 5-10 new Technologies"
-hobbies: ["Coding", "Music", "Anime", "Game"]
-
-profile.display_profile()
 
 
 ```
