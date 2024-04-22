@@ -4,9 +4,9 @@
   <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
 </p>
 
-<div align="center">
-I'm **[Aryan Gupta](https://roxaryan.github.io/acclimate-artist/)**, an **enthusiastic developer** hailing India 🇮🇳 
-</div>
+<h3>
+  Im Aryan Gupta from India 🇮🇳
+</h3>
 
 <div align="left">
   
