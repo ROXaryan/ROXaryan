@@ -4,6 +4,10 @@
   <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
 </p>
 
+
+I'm **[Aryan Gupta](https://roxaryan.github.io/acclimate-artist/)**, an **enthusiastic developer** hailing India 🇮🇳 
+
+
 <div align="left">
   
   ```javascript
