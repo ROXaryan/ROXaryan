@@ -1,7 +1,7 @@
 <h1 align="center">A Young Dev on Journey to make Our future better</h1>
 
 <p align="center">
-  <img src="https://github.com/ROXaryan/ROXaryan/blob/main/SCbe.gif?raw=true" alt="Profile Image" width="400">
+  <img src="https://github.com/ROXaryan/ROXaryan/blob/main/jonsnow.gif?raw=true" alt="Profile Image" width="400">
 </p>
 
 <h3 align="center">
